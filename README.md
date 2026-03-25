@@ -1,12 +1,19 @@
+# Coustom Recovery 
 # Device Samsung-galaxy-F15-5G [SM-E156B]
-# TWRP Unofficial 
-# Twrp Version 3.7.1 Ported
+* TWRP Unofficial 
+* Twrp Version 3.7.1 Ported
+
+
 
 # compatibility
 * Tested On Galaxy F15 5G Android 15 One Ui 7.0 (bit 7)
   
+
+
 # Bugs
 *Fastbootd
+
+
 
 # Flashing Steps
 * Downgrade to android 15 one ui 7 ( how to - google it ) 
@@ -16,6 +23,8 @@
 * after system reboot use button configuration to boot in twrp
   if button not work 🚫 use bugjaeger or Adb Reboot recovery command by
 * you must wipe data partitions / format data 
+
+
 
 # note
 No Official Twrp Support for F15 5g
