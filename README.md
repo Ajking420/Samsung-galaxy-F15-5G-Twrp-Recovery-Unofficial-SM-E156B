@@ -1,4 +1,4 @@
-# Coustom Recovery 
+# Custom Recovery 
 # Device Samsung-galaxy-F15-5G [SM-E156B]
 * TWRP Unofficial 
 * Twrp Version 3.7.1 Ported
